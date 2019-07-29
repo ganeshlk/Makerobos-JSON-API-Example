@@ -3,7 +3,7 @@
         {
             "template_type": "carousel",
             "shadow": true,
-            "preview":"landscape",
+            "preview":"squere",
             "slides": [
                 {
                     "title": "Royal Sundaram General Insurance",
